@@ -26,13 +26,13 @@ Author-Shree Ram
 <!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Shadab azam ansari</h1> -->
 <h3>I'm a Software Engineer.</h3>
 
-- 🎓 I am Completed My Bachelors in **Computer Science** from **Galgotias University**. <br>
+- 🎓 I am doing My Bachelors in **Computer Science** from *RCET BHILAI (CSVTU)**. <br>
 - 👀 I’m interested in Open Source, Web Development, UI/UX and Programming.
 - 💬 I would love to talk React.js and Web Development.
 - 💞️ I’m looking to collaborate on any open source platform.
 - 💡 I am currently focusing on **Data Structures and Algorithm** in *Java* and **DevOps**. A *beginner* contributor at **Open Source**. <br>
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
-- 📫 You can connect with me  by [Mail](mailto:ansarimomshadabazam@gmail.com).
+- 📫 You can connect with me  by [Mail](shreeramsharma005@gmail.com).
 
 ---
 <!-- <h2>📫 How to reach me:</h2> <br>
@@ -64,4 +64,4 @@ Author-Shree Ram
 </div>
 
 
-[![Shadab's GitHub stats](https://stats.quine.sh/Shadab/github)](https://quine.sh/profile/Shadab)
+
