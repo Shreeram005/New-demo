@@ -1,6 +1,4 @@
-# New-demo
-This is my first Git Repository.
-Author-Shree Ram
+
 
 
 
@@ -26,7 +24,7 @@ Author-Shree Ram
 <!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Shadab azam ansari</h1> -->
 <h3>I'm a Software Engineer.</h3>
 
-- 🎓 I am doing My Bachelors in **Computer Science** from *RCET BHILAI (CSVTU)**. <br>
+- 🎓 I am doing My Bachelors in **CSE(AIML)** from *RCET BHILAI (CSVTU)**. <br>
 - 👀 I’m interested in Open Source, Web Development, UI/UX and Programming.
 - 💬 I would love to talk React.js and Web Development.
 - 💞️ I’m looking to collaborate on any open source platform.
